@@ -8,3 +8,5 @@
 4. Run `chmod +x init-letsencrypt.sh`
 5. Run `sudo ./init-letsencrypt.sh`
 6. Run `docker-compose up -d`
+
+Note: save edits to `docker-compose.yaml` without formatting (cmd + shift + p) to preserve commas in nginx bash script
